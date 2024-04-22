@@ -1,0 +1,12 @@
+/* Apply margin-bottom to create space between each video container */
+.video-container {
+    margin-bottom: 20px; 
+    margin-bottom: 20px;
+    margin-right: 20px;/* Adjust the value as needed */
+  }
+  
+  /* Apply width: 100% to make videos responsive */
+  .video-container video {
+    width: 100%;
+    height: auto;
+  }
